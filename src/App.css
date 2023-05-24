@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+
 .App {
   text-align: center;
 }
@@ -36,3 +39,17 @@
     transform: rotate(360deg);
   }
 }
+
+#title {
+  color: rgb(255, 238, 163);
+  font-family: "Permanent Marker", cursive;
+  font-size: 3rem;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: rgb(128, 95, 81);
+}
+
+.bee {
+  width: 100px;
+  height: 100px;
+}
+
